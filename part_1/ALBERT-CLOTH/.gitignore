@@ -1,0 +1,6 @@
+data
+test.*
+debug-exp
+.vscode
+*__pycache__*
+log.txt

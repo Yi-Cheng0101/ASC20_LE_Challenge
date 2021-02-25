@@ -1,0 +1,4 @@
+device cuda:0 n_gpu 1 distributed training False
+[1;32m******Running evaluation******
+[0;37m
+Batch size = 100

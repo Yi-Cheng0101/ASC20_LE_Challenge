@@ -1,0 +1,4 @@
+dev_eval_accuracy = 0.825
+dev_eval_loss = 0.542126476764679
+dev_h_acc = 0
+dev_m_acc = 0.825

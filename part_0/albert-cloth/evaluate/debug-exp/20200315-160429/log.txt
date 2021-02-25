@@ -1,0 +1,9 @@
+device cuda:0 n_gpu 4 distributed training False
+[1;32m******Running evaluation******
+[0;37m
+Batch size = 400
+***** Dev Eval results *****
+  dev_eval_accuracy = 0.8935624519107463
+  dev_eval_loss = 0.3850811570882797
+  dev_h_acc = 0
+  dev_m_acc = 0.8935624519107463
